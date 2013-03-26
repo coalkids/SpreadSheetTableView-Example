@@ -1,0 +1,7 @@
+*.DS_Store
+*.xCodeSupport*
+*.xcodeproj*
+
+*AppKit*
+*Foundation*
+*Objective-J*
